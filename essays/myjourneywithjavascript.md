@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-## The start of understanding Javascript
+## The Start of Understanding Javascript
 
 Javascript is the first front-end language I have worked with. So far the most powerful detail that I have noticed about Javascript that differs it from other languages I am familiar with (C and Java) is you can use functions as though they are a string.
 I’ve only been working with Javascript for about a week so I’m not too sure what my opinion of Javascript is but so far I can see that being able to use function like they are a string can help make codes more efficient instead of having to write a code 
