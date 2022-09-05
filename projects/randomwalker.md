@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Random.png
+image: img/Random.PNG
 title: "Random Walker"
 date: 2022
 published: true
