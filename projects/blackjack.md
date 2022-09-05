@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/Blackjack.jfif
+title: "Black Jack"
+date: 2021
 published: true
 labels:
-  - Lisp
+  - Cardgames
   - GitHub
-summary: "A text adventure game I developed for ICS 313."
+summary: "A game of black jack my group and I developed for EE 160."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Black Jack is card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
 
 To give you a flavor of the game, here is an excerpt from one run:
 
@@ -56,4 +56,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">
