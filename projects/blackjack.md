@@ -8,7 +8,7 @@ published: true
 labels:
   - Cardgames
   - GitHub
-summary: "A game of black jack my group and I developed for EE 160."
+summary: "A game of Black Jack my group and I developed for EE 160."
 ---
 
 <img class="img-fluid" src="../img/Blackjack.jfif">
@@ -22,6 +22,6 @@ This project was for an assignment in EE 160 where we had to code a game in C la
 Thisd project was th first group coding project I had done and form this one experience I learned a lot. I learned that it's hard to assign rach person equally without planning out an algorithm first. 
 
 
-Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">BlackJack/blackjack</a>
+Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">BlackJack Code</a>
  
 
