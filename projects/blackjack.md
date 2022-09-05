@@ -15,45 +15,13 @@ summary: "A game of black jack my group and I developed for EE 160."
 
 Black Jack is card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
 
-To give you a flavor of the game, here is an excerpt from one run:
+This project allows you to play the game of Black Jack by applying the rules of B lack Jack and prompts the user what they would like to do, this is a single player game that randomly assigns the user a card from the deck.
 
-<hr>
+This project was for an assignment in EE 160 where we had to code a game in C language.This was coded by a gorup of 4 people including me. We tried our best to break up the work evenly. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Thisd project was th first group coding project I had done and form this one experience I learned a lot. I learned that it's hard to assign rach person equally without planning out an algorithm first. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">BlackJack/blackjack</a>
+ 
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">
