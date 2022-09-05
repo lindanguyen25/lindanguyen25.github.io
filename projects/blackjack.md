@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Blackjack.jfif
+image: img/cards.JPG
 title: "Black Jack"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A game of black jack my group and I developed for EE 160."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Blackjack.jfif">
 
 Black Jack is card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
 
