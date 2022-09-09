@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "What Makes Smart Questions Smart "
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2022-09-08
+published: true
 labels:
   - Questions
   - Answers
@@ -13,87 +13,21 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Communicating Questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+  As I have spent the first two years of college online I’ve learned that it is not always easy to communicate questions. An essay called [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steven Raymond breaks down how to ask smart questions. This essay explains the etiquettes of good questions and outside of etiquettes what can make a question bad. It also breaks down the effects of good questions. To make it easier to understand smart questions and how to ask smart questions I found an example of a smart question and a question that may be considered not as smart so it is easier to articulate questions. 
 
-## What’s a smart question?
+## Smart Question
+A good example of a “smart” question is a question from Stack overflow titled “ [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/16184827#16184827)
+“. This user has an interesting question which has to do with the computing time of an algorithm. They found that sorting data before the timed region caused the code to loop quicker. They showed the code that they are using which is very important so others can actually see what they are trying to fix. The code starts off with generating an array and then sorts the array, it then ends off calculating the elapsed time. The user found that if they take out the part of the code that sorts the array the elapsed time is longer which they found strange. They thought that it may have been the language and tried to switch over to Java when they were originally using c++ and found that the results were the same but not as extreme. This user did an excellent job of asking a smart question as they showed their findings and attempts of trying to find the answer, this is important as this saves the people answering the question the time of suggesting an answer that the user has already attempted. In coding there are a lot of possibilities on why something may be happening and showing what they have found was not the answer allows others to narrow down the possibilities better. 
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+## Mistakes That Can Happen
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+A question from Stack Overflow titled ”[How to find the sum of an array of numbers?](https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers)” is an example of a question that did not do a good job of communicating their question. In the body of the forum they asked how to find the sum of an array while giving an example array and what they think the answer may be which is using $.each ,while also stating that they aren’t quite sure how to use their guess They repeated the title in the body of the forum which is not necessary as it is repetitive and did not show what they have tried with their guess, this makes it harder to narrow down to what the answer is. They also did not show their code, by showing their code this would help others rule out other possible mistakes. 
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Asking questions is an important part of coding as everyone has different approaches to the same problem that can also yield the same result, if your approach does not work it’s important to turn to others to try different approaches. Being able to ask smart questions is important to reach the result you are looking for. 
+
+
+
