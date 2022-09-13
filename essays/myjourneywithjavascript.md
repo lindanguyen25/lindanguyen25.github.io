@@ -23,7 +23,7 @@ time constraints very similar to how sports players have a time constraint durin
 
 ## WODs/ Work Out of The Day
 
-WODs (Work out of the day) is a part of athletic software engineering, just like how sports players have practice before games WODs allow you to practice before the time constraint coding.. I have done a lot of labs and group projects in other computer 
+WODs (Work out of the day) is a part of athletic software engineering, just like how sports players have practice before games WODs allow you to practice before the time constraint coding. I have done a lot of labs and group projects in other computer 
 science courses but this is the first time I have heard of a type of course style that really pushes students to do an assignment daily. At first I thought the workload would be too much if we are required to do an assignment for this one course daily but 
 I came to realize that the workload was the same but it was just broken up in a way where instead of one hard assignment that we would do once a week, WODs are made so could do it daily while having the same workload as other computer science courses.  
 Practice WODs are helpful because I could study all the concepts of Javascript but all the memorizing would not be useful if I do not know how to actually implement them and the only way to learn how to properly use them is by practicing, having different 
