@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Random.PNG
+image: img/IMG_5162.WEBP
 title: "Hawai'ian Alphabet Checker"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Code that prompts user to enter in a string and returns whether or not the string is a Hawai'an constant,vowel,or if it is not.  "
 ---
 
-<img class="img-fluid" src="../img/graph.PNG">
+<img class="img-fluid" src="../img/IMG_5163.WEBP">
 
 Black Jack is card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
 
