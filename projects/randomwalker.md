@@ -13,12 +13,11 @@ summary: "Code that prompts user to enter in number of steps and returns a rando
 
 <img class="img-fluid" src="../img/graph.PNG">
 
-Black Jack is card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
+This project was done for a introductory course in java. This is my first Java project and shows what kind of coding skills I had when starting.
+I did this project by myself so everything in the source was written by me. Not only was this my first Java project but this was my first solo project. There were a couple of pros and cons from doing a solo project. It was nice that I had complete control over the project but whenever I got stuck I could not get another person to look for a possible work around. 
 
-This project allows you to play the game of Black Jack by applying the rules of B lack Jack and prompts the user what they would like to do, this is a single player game that randomly assigns the user a card from the deck.
+It is a very simple code that covers the foundation of Java. One roadblock I ran into was finding out how to calculate the coordinates on a plane.
 
-This project was for an assignment in EE 160 where we had to code a game in C language.This was coded by a gorup of 4 people including me. We tried our best to break up the work evenly. 
 
-Thisd project was th first group coding project I had done and form this one experience I learned a lot. I learned that it's hard to assign rach person equally without planning out an algorithm first. 
 
 Source: <a href="https://replit.com/@lindangyuen/Mean-Squared-Distance?v=1#Main.java">Random Walker Code</a>
