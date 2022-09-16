@@ -18,7 +18,7 @@ I did this project by myself so everything in the source was written by me. Not 
 
  One roadblock I ran into was finding out how to calculate the coordinates on a plane. For a lot of previous programs I have done I was mostly given the equations that were needed to create the program but in this project I had to critically think about how to impliment math in code. 
  
- Doing a coding project by myself was stressful in that I was not sure if I had full completely the code perfectly since I'm not getting the input of others as it can be hard to interpretate what the instructor is expecting. 
+ Doing a coding project by myself was stressful in that I was not sure if I had full completely the code perfectly since I'm not getting the input of others as it can be hard to interpretate what the instructor is expecting. This was definitely one of my most stressful coding projects as I only had myself to rely on due to the course being taken during covid but it was also on of  the most rewarding since I was able to finish it myself. 
 
 
 
