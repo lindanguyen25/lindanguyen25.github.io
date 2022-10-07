@@ -8,19 +8,20 @@ published: true
 labels:
   - UI
   - HTML
+  - CSS
 ---
 
 
 
-## What is a Coding Standard?
-Coding standards is exactly what the it says.  It is the standards that coding has, it is the style, the indentation, the methods, and many more of a program. It is basically a set of guidlines that has to be followed. When I first heard that it had to be used in the software engineering course my reaction was not positive. I felt like everyone had a different style that they used when they code, some like to leave the closed bracket on the same line as the last line or others may like to leave the closing bracket one a line of its own. Whether a programmer choose one or the other was up to them because it's their preference whether or not they found one or the other esier to identify for them. I felt like coding standards took that away from the programmer. On top of having less of a choice of the style our code was I felt like coding standards were just an extra step we had to take in order to have the file compile correctly. I thought it would take up too much time to follow coding standards ontop of already having to fix syntax errors. That was until I tried using coding standards on Intellij. 
+## Frameworks
+Frameworks can be hard to learn. Having to memorize all shortcuts and style makes it feel like you are learning a new codsing language. It can take a lot of time to understand it and memorize what to do. The first framework I learned how to use ws Bootstrap5. It is used in html and can make it so you do not need a style sheet. Of course you may not be able to 100% get rid of the style sheet but after using Bootstrap5 my style sheet only had a couple lines. One big part of Bootstrap5 is the container. It was really hard top get used to learning how to put row and column classes in the right places. It was a big jump having just learned how to use html in one week to having to jump to Bootstrap5. I think it was important to start using frameworks right after learning html though because when I was learning bootstrap it was hard for me to get the syntax right so I automatically wanted to just start using css more which in turn made it take longer for me to code a website as boostrap does cut down a code by a lot. 
 
 
-## Getting Used to Coding Standards
-When I first startedd using Intellij and coding standards I noticed a little light bulb on the left side of a line that would either be yellow for warning or red for error. I thought this was just another way for the idle to show that there was an error in a perticular line so I ignored the little light bulb and focused on where the error was in said particular line. In order for me to follow the coding standard I had to go back into very place there was a red squiggly line that indicated an error which took a substantial amount of time. There was a instance where I checked all of my indentations and spacingd but could not find error so I decided to see exactly what the red squiggly line was by clicking on the red light bulb. I had used to the light bulb previously to see what the error was but I had not clicked on the error itself before, when I did I got a pleasent surprise. By clicking on the error on the light bulb the idle had automatically fixed the error for me. 
+## Benefits
+Like I mentioned earlier once you get used to bootstrap it can save you a lot of time since the code is significantly shorter which in turn can mean it is less likley for you to make syntax mistakes. Having container makes the style sheet a lot shorter since container does a lot of the display work. Since you do not have to code so much of the display on the style sheet it gives you more room to play with more characterstics that will stand out like chaging the color or fonts. 
 
-## My Honest Opinion on Coding Standard
-In this very case where the idle pretty much does the coding standard fix for me I can see how it can be beneficial to following a coding standard. It helped me orginaze through my functions better and break up parts of a program better to help me identify issues that may not be causing an error but an issue that is causing my program to not have the output I want. However if I were to use a idle that did not easily fix coding standards in a click of a button the way Intellij does I wouldn't nessary be in favor of coding standards. Especially in cases where there is a time constraint, having to go back and manually fix every error can take up a large amount of time. 
+## Cons
+Though bootstrap makes the style sheet a lot shorter I noticed that when using bootstrap I had to use div a lot more. Even with indentation it took me a moment to get used to it. Using a lot of div also made it harder to get the syntax right. I probably see this as a con since I'm still not used to boostrap and html but as of now I find it difficult to tell apart all of the different div. 
 
-## Lesson Learned 
-I learned that it's important to fully understand an idles tools as it is powerful knowoledge when it comes to coding. It was hard for me to fully set up Intellij so I was careful not to touch any of the settings as I did not want to change something that I may not know how to reverse. However I think making those mistakes causes you to fully understand the idle you are working with better. 
+## Conclusion
+I'm still learning how to use boostrap since I'm getting used to using copntainer but I can see how it can be beneficial to learn in the long run. For front end coding separting the display from the style sheet can mean that you can be creative in the style sheet. 
