@@ -11,7 +11,7 @@ labels:
   - Idle
 ---
 
-
+<img class="img-fluid" src="../img/code-main.jpg">
 
 ## What is a Coding Standard?
 Coding standards is exactly what the it says.  It is the standards that coding has, it is the style, the indentation, the methods, and many more of a program. It is basically a set of guidlines that has to be followed. When I first heard that it had to be used in the software engineering course my reaction was not positive. I felt like everyone had a different style that they used when they code, some like to leave the closed bracket on the same line as the last line or others may like to leave the closing bracket one a line of its own. Whether a programmer choose one or the other was up to them because it's their preference whether or not they found one or the other esier to identify for them. I felt like coding standards took that away from the programmer. On top of having less of a choice of the style our code was I felt like coding standards were just an extra step we had to take in order to have the file compile correctly. I thought it would take up too much time to follow coding standards ontop of already having to fix syntax errors. That was until I tried using coding standards on Intellij. 
