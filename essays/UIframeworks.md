@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-
+<img class="img-fluid" src="../img/What-Is-a-Framework-.png">
 
 ## Frameworks
 Frameworks can be hard to learn. Having to memorize all shortcuts and style makes it feel like you are learning a new codsing language. It can take a lot of time to understand it and memorize what to do. The first framework I learned how to use ws Bootstrap5. It is used in html and can make it so you do not need a style sheet. Of course you may not be able to 100% get rid of the style sheet but after using Bootstrap5 my style sheet only had a couple lines. One big part of Bootstrap5 is the container. It was really hard top get used to learning how to put row and column classes in the right places. It was a big jump having just learned how to use html in one week to having to jump to Bootstrap5. I think it was important to start using frameworks right after learning html though because when I was learning bootstrap it was hard for me to get the syntax right so I automatically wanted to just start using css more which in turn made it take longer for me to code a website as boostrap does cut down a code by a lot. 
