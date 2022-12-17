@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns "
 # All dates must be YYYY-MM-DD format!
-date: 2022-12/1
+date: 2022-12-01
 published: true
 labels:
   - UI
