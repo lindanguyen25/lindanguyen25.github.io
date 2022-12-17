@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Linda Nguyen",
+    "label": "Student",
+    "picture": "https://github.com/lindanguyen25.png",
+    "email": "linda68@hawaii.edu",
+    "phone": "808-722-4104",
+    "website": "https://lindanguyen25.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+     "profiles": [
+      { "network": "github", "username": "lindanguyen25", "url": "http://github.com/lindanguyen25" }, 
+      { "network": "linkedin", "username": "Linda Nguyen", "url": "http://linkedin.com/in/linda-nguyen25"  }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Web Development" },
+    { "name": "Quantum Computers" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Javascript", "Bootstrap/Meteor"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Windows", "Linux"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08",
+      "endDate": "Present",
+      "courses": ["Program Structure","Discrete Math",  "Intro to Comp Sci (Java)" , "Programming for Engineers (C language)","Discrete Math 2", "Intro to Comp Sci 2(Java)", "Software Engineering"
+      ]
+    }
+  ],
+  "work": [ 
+    {
+      "company": "UH Information Technology Services",
+      "position": "IT Student Assistant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-7-05",
+      "endDate": "Current",
+      "summary": "Help Desk Consultant",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk", "Surveillance of UH web system using Icinga", "Monitoring over UH manoa data centers"
+      ]
+    }
+  ]
+}
