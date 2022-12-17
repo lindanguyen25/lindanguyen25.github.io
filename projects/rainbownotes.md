@@ -16,10 +16,10 @@ Rainbow Notes is a website that allows students to uploud their notes for all st
 <img class="img-fluid" src="../img/notes.png">
 
 ## Group Set Up and Contributions 
-This project was for an assignment in ICS 314 where we had to devbelop a website. This was created by a gorup of 5 people including me. We tried our best to break up the work evenly, we broke up the work by GitHub projects and issues to create tasks. We actually contribuited to one anothers tasks a lot as whenever one of us ran into issues and were stuck having an outside input was able to fix it. 
+This project was for an assignment in ICS 314 where we had to devbelop a website. This was created by a gorup of 5 people including me. We tried our best to break up the work evenly, we broke up the work by GitHub projects and issues to create tasks. We actually contribuited to one anothers tasks a lot as whenever one of us ran into issues and were stuck having an outside input was able to fix it. <img class="img-fluid" src="../img/m3.png">
 
 Some of the contributions I made towards this project was making the logo, to make the  logo I put some clip arts and put it together. One of the most time consuming parts was doing the search bar that can be seen on the list notes page. It took a while to be able to have the search results show, this was time consuming because there were time where it did work and times where it did not. After working on it for a while it was able to fully work with help of my team members. 
-<img class="img-fluid" src="../img/m3.png">
+<img class="img-fluid" src="../img/searchbar.png">
 
 ## Goal Achieved 
 After some time getting used to GitHub issues and reviewing what we had learned over the course we were able to create a fully functional website. We had students review the website to make sure it would be something that students would fine helpful, students that were knowledgeable about web development and had no experience with development reviewed the site. We recieved positive reviews with some reccomendations to create a forgot password and a way for students to delete their own notes if they wish. 
