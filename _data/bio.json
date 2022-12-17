@@ -11,25 +11,24 @@
     "profiles": [
       { "network": "github", "username": "lindanguyen25", "url": "http://github.com/lindanguyen25" },
       { "network": "linkedin", "username": "Linda Nguyen", "url": "http://linkedin.com/in/linda-nguyen25" },
-      { "network": "Replit", "username": "lindangyuen", "url": "https://replit.com/@lindangyuen" }
      
     ]
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Web Development" },
+    { "name": "Quantum Computers" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript"]
+      "keywords": [ "C", "Java", "Javascript", "Bootsrap/Meteor"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Windows"]
+      "keywords": [ "MacOS", "Git/GitHub", "Windows", "Linux"]
     }
   ],
   "education": [
@@ -39,7 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08",
       "endDate": "Present",
-      "courses": ["Calculus 1", "Calculus 2", "Calculus 3","Calculus 4" ,"Discrete Math",  "Intro to Comp Sci (Java)" , "Physics 150(w/lab)" , "Chemistry 1(w/lab)", "Chemistry 2(w/lab)", "Programming for Engineers (C language)","Discrete Math 2", "Intro to Comp Sci 2(Java)", "Physics 152 lab"
+      "courses": ["Program Structure","Discrete Math",  "Intro to Comp Sci (Java)" , "Programming for Engineers (C language)","Discrete Math 2", "Intro to Comp Sci 2(Java)", "Software Engineering"
       ]
     }
   ],
