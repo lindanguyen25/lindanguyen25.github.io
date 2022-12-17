@@ -11,7 +11,7 @@ labels:
 summary: "A website for note taking my group and I developed for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/Blackjack.jfif">
+<img class="img-fluid" src="../img/rainbow.png">
 
 Black Jack is a card game that is usally played in casinos, but what if you cannot go to casino and want to still have the same thrill of playing Black Jack? 
 This project allows you to play the game of Black Jack by applying the rules of B lack Jack and prompts the user what they would like to do, this is a single player game that randomly assigns the user a card from the deck.
