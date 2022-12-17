@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cards.JPG
-title: "Black Jack"
+title: "Rainbow Notes"
 date: 2021
 published: true
 labels:
   - Cardgames
   - GitHub
-summary: "A game of Black Jack my group and I developed for EE 160."
+summary: "A website for note taking my group and I developed for ICS 314."
 ---
 
 <img class="img-fluid" src="../img/Blackjack.jfif">
@@ -21,4 +21,5 @@ This project was for an assignment in EE 160 where we had to code a game in C la
 After spending a lot of time finding out ways to collaborate with one another we were ableto get the black jack game to work without any syntax errors. This project was assigned to us so we it was difficult to engage in it since we didn't get to have the freedom to choose what kind of game we could code but it was enjoyable learning about the game itself and the rules that the games has. If you would like to try to play a game of black jack please feel free to check out the source link below. 
 
 
-Source: <a href="https://replit.com/@lindangyuen/Black-jack?v=1#blackjack.c">BlackJack Code</a>
+Source: <a href="https://rainbow-notes.github.io/">Rainbow Notes Info Page</a>
+Source: <a href="http://146.190.34.247/">Rainbow Notes Website</a>
