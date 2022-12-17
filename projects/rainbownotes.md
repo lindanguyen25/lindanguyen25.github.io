@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cards.JPG
 title: "Rainbow Notes"
-date: 2021
+date: 2022
 published: true
 labels:
   - Cardgames
